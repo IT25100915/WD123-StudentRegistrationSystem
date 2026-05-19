@@ -36,7 +36,7 @@ public class DBConnection {
     // ENCAPSULATION: private constants — credentials are never exposed outside this class.
     private static final String URL      = "jdbc:mysql://localhost:3306/student_registration_system";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "R@mika2006";
+    private static final String PASSWORD = "1234";
 
     /**
      * Returns a live JDBC Connection to the MySQL database, or null on failure.
